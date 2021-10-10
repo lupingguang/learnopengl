@@ -1,0 +1,2 @@
+g++ main.cpp -o test -lGL  -lglut  -lGLEW -I.
+

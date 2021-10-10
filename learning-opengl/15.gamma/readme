@@ -1,0 +1,1 @@
+g++ -o out main.cpp glad.c -lglfw -lGL -lm -lXrandr -lXi -lX11 -lXxf86vm -lpthread -ldl -lXinerama -lXcursor -I. -lfreetype -I/usr/local/freetype/include/freetype2/  -L/usr/local/freetype/lib/  -L/user/local/lib/

@@ -1,0 +1,2 @@
+g++ -o out main.cpp glad.c -lglfw -lGL -lm -lXrandr -lXi -lX11 -lXxf86vm -lpthread -ldl -lXinerama -lXcursor -lfreetype -lassimp -I.  -I/usr/local/lib/assimp/include  -I/usr/local/freetype/include/freetype2/  -L/usr/local/freetype/lib/ -L/user/local/lib/assimp/lib   -L/user/local/lib/ -std=c++11
+

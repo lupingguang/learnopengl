@@ -1,0 +1,1 @@
+ g++ main.cpp -o test -lGL  -lglut  -lGLEW -I. -I/usr/local/freetype/include/freetype2/  -L/usr/local/freetype/lib/  -lfreetype 
